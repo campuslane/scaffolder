@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/scaffolder":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/scaffolder","hostpath":"/Users/Kate/Sites/scaffolder","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Kate/Sites/scaffolder","disabled":false}}}
