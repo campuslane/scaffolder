@@ -37,6 +37,9 @@ class Scaffold extends Command
      */
     public function handle()
     {
-        $this->info('Welcome to Frank\'s Scaffolder!');
+        
+        $items = $this->ask('What are you scaffolding (e.g. posts, categories, listings)?');
+
+        $this->info("Ok, we're going to scaffold $items, where do you want these son a bitches?");
     }
 }
